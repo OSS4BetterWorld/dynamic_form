@@ -1,4 +1,4 @@
-import 'package:oss4bt_dynamic_form/field.dart';
+import 'package:oss4bw_dynamic_form/field.dart';
 
 class DynamicFormCreation {
   List<DynamicFormField> fields;
