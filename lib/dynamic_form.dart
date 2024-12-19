@@ -1,2 +1,2 @@
-library dynamic_form;
+library oss4bt_dynamic_form;
 

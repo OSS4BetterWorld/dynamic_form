@@ -1,4 +1,4 @@
-import 'package:dynamic_form/form_controller.dart';
+import 'package:oss4bt_dynamic_form/form_controller.dart';
 import 'package:flutter/material.dart';
 
 class DynamicForm extends StatefulWidget {

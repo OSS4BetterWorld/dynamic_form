@@ -1,7 +1,7 @@
-name: dynamic_form
+name: oss4bt_dynamic_form
 description: A simple Flutter package to build dynamic Form
 version: 0.0.1
-homepage: https://github.com/OSS4BetterWorld/dynamic_form
+homepage: https://github.com/OSS4BetterWorld/oss4bt_dynamic_form
 
 environment:
   sdk: '>=3.1.4 <4.0.0'
